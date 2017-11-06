@@ -1,0 +1,3 @@
+main: io.github.smartsteves.centralpark.test.CpTest
+version: 1.0
+name: CentralParkTest

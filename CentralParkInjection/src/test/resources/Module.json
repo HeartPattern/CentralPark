@@ -1,0 +1,8 @@
+{
+  "modules":[
+    {
+      "name":"Greeting",
+      "package":"io.github.smartsteves.centralpark.greeting"
+    }
+  ]
+}
